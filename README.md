@@ -81,13 +81,12 @@ En las Redes neuronales cada oración es representada por un vector de cientos d
 
 ### 4ta semana: Continuación párrafos madre
 - [x] 30 min de reunión
+- [x] Crear repositorio en GitHub
 - Seguir con párrafos madre 
 	+ [ ] Babosas
 	+ [ ] Hormigas urbanas
-+ [ ] Simplificar textos con modelo de simplificación en español
-+ [ ] Agregar los más textos más técnicos.
-+ [ ] Crear repositorio en GitHub
-
++ [ ] Simplificar textos (con modelo de simplificación en español).
++ [ ] Agregar los párrafos madre más técnicos.
 + Cantidad total de horas utilizadas = 30min
 
 ### Nra semana: Generación de paráfrasis
