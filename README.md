@@ -1,4 +1,3 @@
-# Compromiso Social estudiantil
 Se trata de una parte de un proyecto de producción de un bot (realizado con https://rasa.com/).
 
 * Cantidad de horas estimadas: 16hs
@@ -83,10 +82,10 @@ En las Redes neuronales cada oración es representada por un vector de cientos d
 - [x] 30 min de reunión
 - [x] Crear repositorio en GitHub
 - Seguir con párrafos madre 
-	+ [ ] Babosas
-	+ [ ] Hormigas urbanas
+	+ [x] Babosas
+	+ [x] Hormigas urbanas
 + [ ] Simplificar textos (con modelo de simplificación en español).
-+ [ ] Agregar los párrafos madre más técnicos.
++ [ ] Agregar los párrafos madre más técnicos. Y tratar de qué todos los "opcionales" sean iguales.
 + Cantidad total de horas utilizadas = 30min
 
 ### Nra semana: Generación de paráfrasis
