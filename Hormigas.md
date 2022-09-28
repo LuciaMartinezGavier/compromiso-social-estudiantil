@@ -1,4 +1,4 @@
-# Hormigas
+# Hormigas urbanas
 ## ¿Qué son?
 1. Las hormigas son insectos que pertenecen a un grupo llamado "insectos sociales", los cuales se caracterizan por vivir en comunidades organizadas con división de tareas. El tamaño de las colonias de hormigas pueden variar desde una docena hasta varios miles de ejemplares.
 
@@ -7,7 +7,7 @@
 3. Las hormigas son insectos, que cumplen roles importantes en los ecosistemas, entre ellos, regular el crecimiento vegetal, reciclar nutrientes, ser controladores biológicos, polinizar, remover materia orgánica...
 
 ## ¿Cómo son?
-1. La longitud normal de una hormiga es de 1 a 5mm, aunque se han llegado a descubrir hormigas de hasta 30 mm (no en la región patagónica).
+1. La longitud normal de una hormiga es de 1 a 5 mm, aunque se han llegado a descubrir hormigas de hasta 30 mm (no en la región patagónica).
 
 2. Tienen cabeza grande, antenas articuladas, poderosas mandíbulas y tres regiones corporales (cabeza, tórax y abdomen). En el extremo último del abdomen de puede encontrar el aguijón.
 
@@ -30,7 +30,7 @@
 
 2. Como medida preventiva se recomienda limpiar diariamente y quitar las fuentes de comida pegajosa, residuos dulces y grasosos y cerrar bien los artículos con fragancias. 
 
-3. Como medida preventiva se recomienda identificar y sellar los sitios de ingreso. Las entradas de las hormigas obreras pueden ser bloqueados mediante el uso de silicona, masilla, pegamento o yeso. Otra opción es colocar una barreera de vaselina o tiza ya que las hormigas no pueden caminar sobre estos productos.
+3. Como medida preventiva se recomienda identificar y sellar los sitios de ingreso. Las entradas de las hormigas obreras pueden ser bloqueados mediante el uso de silicona, masilla, pegamento o yeso. Otra opción es colocar una barrera de vaselina o tiza ya que las hormigas no pueden caminar sobre estos productos.
 
 4. Como repelente se pueden usar condimentos como canela, menta, clavo de olor, ajo y pimienta negra, los cuales pueden ser diluidos en agua y rociados en muebles. 
 
@@ -43,6 +43,3 @@
 8. Para el control de hormigas urbanas se recomienda rociar a cada individuo o a la boca del nido, con una solución de agua con vinagre en partes iguales.
 
 9. Un método de control es el uso de un cebo tóxico. Por ejemplo, mezclar agua con azúcar y ácido bórico o borato de sodio.
-
-10. 
-
