@@ -78,15 +78,15 @@ En las Redes neuronales cada oración es representada por un vector de cientos d
 	+ [x] Orugas
 + Cantidad total de horas utilizadas = 3hs
 
-### 4ta semana: Continuación párrafos madre
+### 4ta y 5ta semana: Continuación párrafos madre
 - [x] 30 min de reunión
 - [x] Crear repositorio en GitHub
 - Seguir con párrafos madre 
 	+ [x] Babosas
 	+ [x] Hormigas urbanas
-+ [ ] Simplificar textos (con modelo de simplificación en español).
-+ [ ] Agregar los párrafos madre más técnicos. Y tratar de qué todos los "opcionales" sean iguales.
-+ Cantidad total de horas utilizadas = 30min
+	+ [x] babosita del peral
++ [?] Simplificar textos (con modelo de simplificación en español).
++ Cantidad total de horas utilizadas = 2hs
 
 ### Nra semana: Generación de paráfrasis
 + [ ] 30' reunión
