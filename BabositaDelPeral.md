@@ -1,8 +1,8 @@
 # Babosita del Peral
 ## ¿Qué son?
-1. La "babosita del peral", a pesar de su nombre, es una avispa. Considerada como una de las plagas más importantes de los árboles frutales en la Patagonia. 
+1. La babosita del peral, a pesar de su nombre, es una avispa. Considerada como una de las plagas más importantes de los árboles frutales en la Patagonia. 
 
-2. La babosita del peral es una avispa que en su estado larval posee una cubierta mucilaginosa que le otorga aspecto de "babosa".
+2. La babosita del peral es una avispa que en su estado larval posee una cubierta mucilaginosa que le otorga aspecto de babosa.
 
 ## ¿Cómo son?
 1. Un adulto es una avispa de color oscuro aproximadamente de 8 mm de largo. Su cuerpo es ancho, con el abdomen ampliamente unido al tórax.

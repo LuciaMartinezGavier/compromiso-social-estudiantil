@@ -1,8 +1,8 @@
 # Babosas
 ## ¿Qué son?
-1. Las babosas son invertebrados moluscos (no son insectos). Las babosas de alimentan de plantas, líquenes y hongos pero también pueden consumir residuos animales.
+1. "Las babosas son invertebrados moluscos (no son insectos). Las babosas de alimentan de plantas, líquenes y hongos pero también pueden consumir residuos animales."
 
-2. Las babosas son invertebrados que suelen considerarse un problema en jardines y  huertas, debido a que se alimenta de muchas de las plantas cultivadas por el hombre.
+2. "Las babosas son invertebrados que suelen considerarse un problema en jardines y  huertas, debido a que se alimentan de muchas de las plantas cultivadas por el hombre."
 
 ## ¿Cómo son?
 1. Las babosas no poseen caparazón o, si lo tienen es pequeño e interno.
@@ -14,9 +14,9 @@
 4. El cuerpo de las babosas posee una importante cantidad de agua, y se halla recubierto por un mucus protector que evita la desecación y facilita el desplazamiento.
 
 ## ¿Cuál es su habitat?
-1. Las babosas  viven en ambientes húmedos y desarrollan sus actividades durante la noche y están activas durante temperaturas entre 0°C y 18°C. Durante el día las babosas buscan refugio bajo ladrillos, piedras, tablones de madera, entre otros.
+1. Las babosas  viven en ambientes húmedos y desarrollan sus actividades durante la noche. Están activas durante temperaturas entre 0°C y 18°C.Durante el día las babosas buscan refugio bajo ladrillos, piedras, tablones de madera, entre otros.
 
-## Daño
+## Daño 
 1. La mayoría de las especies de babosas son inofensivas. Sin embargo, un pequeño número de especies son plagas polífagas para la agricultura.
 
 ## Prevención
