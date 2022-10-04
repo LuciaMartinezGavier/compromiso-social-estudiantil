@@ -3,17 +3,16 @@ Se trata de una parte de un proyecto de producción de un bot (realizado con htt
 * Cantidad de horas estimadas: 16hs
 * Cantidad de horas requeridas por CSE: 30-60hs
 miercoles 4-4.30
+
 ## Tarea
 Generar paráfrasis de párrafos informativos para que el bot no responda siempre lo mismo.
 
-El objetivo es generar entre 15 y 20 párrafos por insecto y por planta.
-Hacer 3 párrafos madre.
-
 Escribir oraciones simples: sujeto verbo predicado 60-70 caracteres.
 Hacer diferentes párrafos: más y menos técnicos.
-Modelo para simplificar texto en español
+Mínimo 4 textos (párrafos combinados) por tema (insecto): agregar y sacar párrafos madre/paráfrasis.
+
 ### Insectos
-Generar párrafos que respondan diferentes preguntas sobre un instecto particular. Y parafrasearlos.
+Generar párrafos que respondan diferentes preguntas sobre un insecto particular. Y parafrasearlos.
 
 Los párrafos deben variar en la pregunta que responden y en el estilo de escritura: amigable, formal, directo, con emojis.
 
@@ -27,7 +26,7 @@ Los párrafos deben variar en la pregunta que responden y en el estilo de escrit
 * Hormigas
 
 **En frutales:**
-* babosita del peral (caída la pag.)
+* babosita del peral
 
 ### Plantas
 Generar párrafos de propiedades nutritivas que no superen los 256 caracteres (se puede revisar esta cota).
@@ -85,12 +84,23 @@ En las Redes neuronales cada oración es representada por un vector de cientos d
 	+ [x] Babosas
 	+ [x] Hormigas urbanas
 	+ [x] babosita del peral
-+ [?] Simplificar textos (con modelo de simplificación en español).
-+ Cantidad total de horas utilizadas = 2hs
++ [x] Simplificar textos (con modelo de simplificación en español).
++ Cantidad total de horas utilizadas = 2hs 30min
 
-### Nra semana: Generación de paráfrasis
+
+### 6ta semana: Generación de paráfrasis
++ [x] 30' reunión
+- [x] Escribir script para generar paráfrasis automáticas: Output: texto final que van a leer los usuarios.
+
++ Cantidad total de horas utilizadas = 3hs
+
+### Nra semana: Evaluación de paráfrasis
 + [ ] 30' reunión
-+ Generar paráfrasis automáticas
++ Valuación de paráfrasis (1hs máx)
+	+ Mantuvo la semántica
+	+ Suena bien en español
+	+ Tiene coherencia interna
++ Segunda prioridad: hacer textos más formales
 
 ## Links útiles
 
