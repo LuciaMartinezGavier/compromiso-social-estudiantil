@@ -94,6 +94,12 @@ En las Redes neuronales cada oración es representada por un vector de cientos d
 
 + Cantidad total de horas utilizadas = 3hs
 
+### 7ma semana:
+- [x] 30' reunion
+- [ ] Enviar párrafos madre a ingenieros para que verifiquen que estén bien.
+- [ ] Hacer un diccionario de sinónimos para generar oraciones con la misma semántica. (Ver librería `spacy`).
+- Cantidad total de horas utilizadas = 30 min
+
 ### Nra semana: Evaluación de paráfrasis
 + [ ] 30' reunión
 + Valuación de paráfrasis (1hs máx)
