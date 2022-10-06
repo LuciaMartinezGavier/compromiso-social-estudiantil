@@ -10,7 +10,7 @@
 2. Las babositas del peral adultas son insectos oscuros que poseen ojos y antenas negras y dos pares de alas anchas y transparentes.
 
 ## ¿Cuál es su habitat?
-1. Las babositas del peral son nativas de Europa, y se encuentra presente en Uruguay, Chile y Argentina. Las larvas, quieres consumen el tejido de las hojas, están presentes entre finales de diciembre y hasta principios de febrero.
+1. Las babositas del peral son nativas de Europa, y se encuentra presente en Uruguay, Chile y Argentina. Las larvas, quienes consumen el tejido de las hojas, están presentes entre finales de diciembre y hasta principios de febrero.
 
 ## Daño
 1. Atacan principalmente el peral, y luego el cerezo, guindo, ciruelo, manzano y rara vez el duraznero. Los daños ocasionados son consecuencia de la alimentación de sus larvas.
