@@ -7,7 +7,7 @@
 ## ¿Cómo son?
 1. El pilme tiene un cuerpo alargado de entre 9 a 14mm, y es color negro brillante. Se le reconoce por sus antenas largas y negras. Los extremos superiores de sus patas son de color anaranjado-rojizo. 
 
-## ¿Cuál es su habitat?
+## ¿Cuál es su hábitat?
 1. Los pilmes se distribuyen en Chile y Argentina, desde el norte de Neuquén al centro de Chubut, principalmente en la zona cordillerana. El adulto aparece en la primavera, a partir de octubre y permanece activo durante el verano hasta febrero o marzo.
 
 ## Daño
@@ -21,7 +21,7 @@
 
 2. Una técnica para la prevención de pilmes se basa en una preparación temprana del suelo,  de modo de exponer los estadios larvales a la acción de depredadores y a condiciones ambientales desfavorables para su desarrollo (luz, temperatura).
 
-3. Se recomienda para prevenir la presencia de pilmes, sembrar variedades de los cultivos susceptibles que posean defensas contra el escarabajo, como ser una fuerte barrera mecánicaen base a tricomas ("pelos" que recubren la superficie de las hojas, petalos o raíces).
+3. Se recomienda para prevenir la presencia de pilmes, sembrar variedades de los cultivos susceptibles que posean defensas contra el escarabajo, como ser una fuerte barrera mecánica en base a tricomas ("pelos" que recubren la superficie de las hojas, pétalos o raíces).
 
 4. Para el control de pilmes se pueden utilizar algunos productos naturales como repelentes, por ejemplo en el sur de Chile se suelen colocar ramas del arbusto nativo conocido como "duraznillo negro".
 

@@ -1,6 +1,6 @@
 # Hormigas urbanas
 ## ¿Qué son?
-1. Las hormigas son insectos que pertenecen a un grupo llamado "insectos sociales", los cuales se caracterizan por vivir en comunidades organizadas con división de tareas. El tamaño de las colonias de hormigas pueden variar desde una docena hasta varios miles de ejemplares.
+1. Las hormigas son insectos que pertenecen a un grupo llamado "insectos sociales", los cuales se caracterizan por vivir en comunidades organizadas con división de tareas. El tamaño de las colonias de hormigas puede variar desde una docena hasta varios miles de ejemplares.
 
 2. Las hormigas son insectos que depende su alimentación pueden ser nectívoras (se alimentan de soluciones azucaradas), granívoras (se alimentan de granos y semillas) y cortadoras (recolectan trozos de hojas que trasladan al nido para cultivar un hongo que sirve de alimento de adultos y larvas).
 
@@ -9,9 +9,9 @@
 ## ¿Cómo son?
 1. La longitud normal de una hormiga es de 1 a 5 mm, aunque se han llegado a descubrir hormigas de hasta 30 mm (no en la región patagónica).
 
-2. Tienen cabeza grande, antenas articuladas, poderosas mandíbulas y tres regiones corporales (cabeza, tórax y abdomen). En el extremo último del abdomen de puede encontrar el aguijón.
+2. Tienen cabeza grande, antenas articuladas, poderosas mandíbulas y tres regiones corporales (cabeza, tórax y abdomen). En el extremo último del abdomen se puede encontrar el aguijón.
 
-## ¿Cuál es su habitat?
+## ¿Cuál es su hábitat?
 1. Las hormigas habitan en casi todos los ecosistemas terrestres con excepción de la Antártida. Las especies que entran a nuestras casas en busca de protección o alimento son conocidas como "Hormigas Urbanas".
 
 2. Las hormigas viven en nidos o colonias de tamaños variables, desde una docena hasta varios miles de individuos.
@@ -30,7 +30,7 @@
 
 2. Como medida preventiva se recomienda limpiar diariamente y quitar las fuentes de comida pegajosa, residuos dulces y grasosos y cerrar bien los artículos con fragancias. 
 
-3. Como medida preventiva se recomienda identificar y sellar los sitios de ingreso. Las entradas de las hormigas obreras pueden ser bloqueados mediante el uso de silicona, masilla, pegamento o yeso. Otra opción es colocar una barrera de vaselina o tiza ya que las hormigas no pueden caminar sobre estos productos.
+3. Como medida preventiva se recomienda identificar y sellar los sitios de ingreso. Las entradas de las hormigas obreras pueden ser bloqueadas mediante el uso de silicona, masilla, pegamento o yeso. Otra opción es colocar una barrera de vaselina o tiza ya que las hormigas no pueden caminar sobre estos productos.
 
 4. Como repelente se pueden usar condimentos como canela, menta, clavo de olor, ajo y pimienta negra, los cuales pueden ser diluidos en agua y rociados en muebles. 
 

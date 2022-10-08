@@ -1,6 +1,6 @@
 # Orugas
 ## ¿Qué son?
-1. Las orugas son larvas de mariposas y polillas. Que se alimentan de hojas, flores, tallos, frutos o raíces. La oruga "cogollero del maíz" u "oruga militar  del sur" es las que suele encontrarse en invernaderos, jardines y huertas.
+1. Las orugas son larvas de mariposas y polillas. Que se alimentan de hojas, flores, tallos, frutos o raíces. La oruga "cogollero del maíz" u "oruga militar  del sur" es la que suele encontrarse en invernaderos, jardines y huertas.
 
 2. Las orugas son larvas de mariposas y polillas.  Algunas pueden ser plagas importantes para la agricultura, y atacan principalmente al maíz, la soja, el algodón, la alfalfa, el tomate, el lino, la papa y el sorgo.
 
@@ -9,11 +9,11 @@
 ## ¿Cómo son?
 1. Las orugas poseen una estructura blanda y cilíndrica, excepto la cabeza. La cabeza suele ser una cápsula resistente y dura, en la que se insertan dos potentes mandíbulas en forma de cuchara con el borde dentado.
 
-2. El cuerpo de la oruga se encuentra dividido en una serie de segmentos, los cuales presentan tres pares de patas más varios pares de falsas partas que usan para caminar y agarrarse.
+2. El cuerpo de la oruga se encuentra dividido en una serie de segmentos, los cuales presentan tres pares de patas más varios pares de falsas patas que usan para caminar y agarrarse.
 
 3. Algunas especies de orugas suelen exhibir en su cuerpo una variedad de colores o espinas que usan para anunciar su toxicidad o desagradable sabor como mecanismo de defensa ante predadores.
 
-## ¿Cuál es su habitat?
+## ¿Cuál es su hábitat?
 1. Hay aproximadamente 30 especies de orugas que se distribuyen a lo largo de seis continentes. En América se encuentra en varios países desde Argentina y Chile hasta el sur de Estados Unidos.
 
 ## Daño
@@ -24,7 +24,7 @@
 
 2. Un modo de controlar a las orugas y a los huevos, es mediante el uso de tierra Diatomea, la cual debe espolvorearse sobre las plantas una vez por semana. La oruga muere al ingerirla y a la vez deshidrata a los huevos.
 
-3. Un modo de controlar a las orugas y a los huevos, es mediante el uso de una infusión de ajenjo o ajenco. Se realiza el té y debe dejarse reposar por 24 horas. Luego se coloca el té en un aspersor y se rocía la planta a tratar.
+3. Un modo de controlar a las orugas y a los huevos, es mediante el uso de una infusión de ajenjo. Se realiza el té y debe dejarse reposar por 24 horas. Luego se coloca el té en un aspersor y se rocía la planta a tratar.
 
 4. Una opción para disminuir el número de mariposas nocturnas, es colocar a la noche una luz con un panel de plástico donde las mariposas choquen al ser atraídas hacia la luz. Debajo del panel, debe colocarse una fuente con agua y detergente.
 

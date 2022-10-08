@@ -7,13 +7,13 @@
 ## ¿Cómo son?
 1. Las babosas no poseen caparazón o, si lo tienen es pequeño e interno.
 
-2. El cuerpo de las babosas terrestre es alargado y mide entre 1 y 15 cm . La cabeza tiene dos pares de antenas. El par superior es sensible a la luz, y el inferior provee el sentido de olfato.
+2. El cuerpo de las babosas terrestre es alargado y mide entre 1 y 15 cm . La cabeza tiene dos pares de antenas. El par superior es sensible a la luz, y el inferior provee el sentido del olfato.
 
 3. Las babosas poseen un manto (o escudo) detrás de la cabeza. Este es una laminilla calcárea que cubre algunos órganos. 
 
 4. El cuerpo de las babosas posee una importante cantidad de agua, y se encuentra recubierto por un mucus protector que evita la desecación y facilita el desplazamiento.
 
-## ¿Cuál es su habitat?
+## ¿Cuál es su hábitat?
 1. Las babosas  viven en ambientes húmedos y desarrollan sus actividades durante la noche. Están activas durante temperaturas entre 0°C y 18°C. Durante el día las babosas buscan refugio bajo ladrillos, piedras, tablones de madera, entre otros.
 
 ## Daño 
