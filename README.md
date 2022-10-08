@@ -96,9 +96,9 @@ En las Redes neuronales cada oración es representada por un vector de cientos d
 
 ### 7ma semana:
 - [x] 30' reunion
-- [ ] Enviar párrafos madre a ingenieros para que verifiquen que estén bien.
+- [x] Enviar párrafos madre a ingenieros para que verifiquen que estén bien.
 - [ ] Hacer un diccionario de sinónimos para generar oraciones con la misma semántica. (Ver librería `spacy`).
-- Cantidad total de horas utilizadas = 30 min
+- Cantidad total de horas utilizadas = 1hs
 
 ### Nra semana: Evaluación de paráfrasis
 + [ ] 30' reunión
@@ -143,6 +143,33 @@ https://parafrasear.es/
 
 **Cuadernillos de los insectos**
 https://inta.gob.ar/documentos/serie-de-divulgacion-sobre-insectos-de-importancia-ecologica-economica-y-sanitaria
+
+
+
+***
+Las paráfrasis del modelo  https://huggingface.co/mrm8488/bert2bert_shared-spanish-finetuned-paus-x-paraphrasing no fueron  muy buenas (ejemplos de un par de paráfrasis sobre hormigas).
+
+*Original*:
++ La longitud normal de una hormiga es de 1 a 5 mm, aunque se han llegado a descubrir **hormigas** de hasta 30 mm (no en la región patagónica).  
+
+*Paráfrasis*:  
++ La longitud normal de una hormiga es de 1, 5 mm, aunque se han llegado a descubrir **Lucy** de hasta 30 mm ( no en la región patagónica ).
++ La longitud normal de una hormiga es de 1 a 5 mm, aunque se han llegado a descubrir **concreto** de hasta 30 mm ( no en la región patagónica ).
+
+*Original:*
++ Tienen cabeza grande, antenas articuladas, poderosas mandíbulas y tres regiones corporales (cabeza, tórax y abdomen). En el extremo último del abdomen se puede encontrar el **aguijón**.  
+
+*Paráfrasis:*  
++ Tienen cabeza grande, antenas articuladas, poderosas mandíbulas y tres regiones corporales ( cabeza, tórax y abdomen ), en el extremo último del abdomen se puede ser la **espiijón**.
++ Tienen una cabeza grande, antenas articuladas, poderosas mandíbulas y tres regiones corporales ( cabeza, tórax y abdomen ), en el extremo final del abdomen se puede encontrarse el **Drijón**.
+
+*Original:* 
++ Las hormigas pueden **dañar aparatos** **electrónicos** y materiales estructurales, tales como maderas en vigas o ventanas, revestimientos y **cimientos**.
+
+*Paráfrasis:*
++ Las hormigas pueden **dañartrones** electrónicos y materiales estructurales, como maderas en vigas o ventanas, revestimientos y motores. **É É sk X / swnship**
++ Las hormigas pueden dañar **Electronicas** y materiales estructurales, como maderas en vigas o ventanas, revestimientos y motores. **É É sk X / swnship**
++ Las hormigas pueden dañar **Electronicas** y materiales estructurales, como maderas en vigas o ventanas, revestimientos y motores. **É / sk X / swnship**
 
 
 
