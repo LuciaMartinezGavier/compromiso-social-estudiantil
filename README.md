@@ -97,8 +97,14 @@ En las Redes neuronales cada oración es representada por un vector de cientos d
 ### 7ma semana:
 - [x] 30' reunion
 - [x] Enviar párrafos madre a ingenieros para que verifiquen que estén bien.
-- [ ] Hacer un diccionario de sinónimos para generar oraciones con la misma semántica. (Ver librería `spacy`).
-- Cantidad total de horas utilizadas = 1hs
+- [??] Hacer un diccionario de sinónimos para generar oraciones con la misma semántica. (Ver librería `spacy`).
+- [x] Hacer paráfrasis de pulgones con generadores de paráfrasis de internet
+- Cantidad total de horas utilizadas = 2hs
+
+### 8va semana:
+- [x] 30' reunión
+- [ ] Hacer paráfrasis de los demás insectos cuando estén verificados los párrafos madre
+	- Usar modelo de Guido también
 
 ### Nra semana: Evaluación de paráfrasis
 + [ ] 30' reunión
